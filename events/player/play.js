@@ -10,7 +10,7 @@ module.exports = {
 			new button().setCustomId("back").setEmoji("⏮️").setStyle("PRIMARY"),
 			new button().setCustomId("pause").setEmoji("⏸️").setStyle("SUCCESS"),
 			new button().setCustomId("resume").setEmoji("▶️").setStyle("SUCCESS"),
-			new button().setCustomId("shuffle").setEmoji("🔁").setStyle("SUCCESS"),
+			new button().setCustomId("shuffle").setEmoji("🔀").setStyle("SUCCESS"),
 			new button().setCustomId("skip").setEmoji("⏭️").setStyle("PRIMARY")
 		);
 		const rw2 = new row().addComponents(
