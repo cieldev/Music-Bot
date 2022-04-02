@@ -36,5 +36,3 @@ registrar(client);
  * Login to the bot
  */
 client.login(client.config.botToken);
-
-keepAlive()
