@@ -6,8 +6,7 @@ const config = require("./musico.config");
 const handleEvents = require("./handlers/eventsHandler");
 const handleInteractions = require("./handlers/interactionHandlers");
 const registrar = require("./handlers/registrar");
-const handlePlayer = require("./handlers/playerEventsHandler");
-const keepAlive = require("./server")
+const handlePlayer = require("./handlers/playerEventsHandler")
 
 const client = new Client({
 	intents: [
