@@ -6,8 +6,8 @@
  * @note you can add other properties to this object by yourself and access them in your code using `client.config.<your-property>`
  */
 const config = {
-	botId: "858664469797011466",
-	botToken: "ODU4NjY0NDY5Nzk3MDExNDY2.YNhbmg.tRNBE-Q4cpKlVF8v2TXm78CBwWo",
+	botId: "858664932698226698",
+	botToken: "ODU4NjY0OTMyNjk4MjI2Njk4.YNhcCQ._8YLDAjs9T_88TwcT0SNRZhNf_A",
 	ownerId: "752814117806407710",
 };
 module.exports = config;
