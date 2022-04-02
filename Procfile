@@ -1,1 +1,1 @@
-worker : npm run musico 
+worker: npm run musico 
