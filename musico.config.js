@@ -7,7 +7,7 @@
  */
 const config = {
 	botId: "858664932698226698",
-	botToken: "ODU4NjY0OTMyNjk4MjI2Njk4.YNhcCQ._8YLDAjs9T_88TwcT0SNRZhNf_A",
+	botToken: ";;;;",
 	ownerId: "752814117806407710",
 };
 module.exports = config;
